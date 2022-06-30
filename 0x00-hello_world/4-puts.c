@@ -4,6 +4,6 @@
 /*main function - where the execution of program begins*/
 	int main(void)
 {
-	puts("Programming is like a multilingual puzzel");
+	puts("\"Programming is like a multilingual puzzel");
 	return (0);
 }
