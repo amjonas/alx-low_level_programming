@@ -1,12 +1,9 @@
+/*Simple C program that prints Programming is like a multilingual puzzle*/
 #include <stdio.h>
 
 /*main function - where the execution of program begins*/
 	int main(void)
-
-		{
-
-			/*prints text in quotes*/
-		puts("Programming is like building a multilingual puzzle");
-		return (0);
-
-		}
+{
+	puts("Programming is like a multilingual puzzel");
+	return (0);
+}
