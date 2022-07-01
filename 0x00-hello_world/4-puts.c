@@ -1,8 +1,9 @@
-/*Simple C program that prints Programming is like a multilingual puzzle*/
 #include <stdio.h>
-
-/*main function - where the execution of program begins*/
-	int main(void)
+/**
+ * main - Write '"Programming is like building a multilingual puzzle'
+ * Return: Always 0 (success)
+ */
+int main(void)
 {
 	puts("\"Programming is like a multilingual puzzel");
 	return (0);
