@@ -3,12 +3,9 @@
 /**
  *   puts_half - print half a strong
  *   @str: input string
- *   
  *   Return: void
  */
-
 void puts_half(char *str)
-
 {
 	int i = 0;
 	int n;
