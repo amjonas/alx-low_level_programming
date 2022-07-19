@@ -7,7 +7,9 @@
  *   @a: input pointer.
  *   @size: size of the matrix
  *   Return: no return.
- */void print_diagsums(int *a, int size)
+ */
+
+void print_diagsums(int *a, int size)
 
 {
 	int i, sum1 = 0, sum2 = 0;
